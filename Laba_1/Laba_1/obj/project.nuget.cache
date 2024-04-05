@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHGV3bktXvMDtV3FYHeXBNOgt59T1xzVXUoeA39r9KTzYaGrkH49ZP5p4yf3nuzNAYsnp4/YGw0tZ3ZeZdu7Kw==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Studying\\2_курс\\2 семестр\\ООП\\Labas\\Laba_1\\Laba_1\\Laba_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

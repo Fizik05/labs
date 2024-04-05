@@ -1,0 +1,4 @@
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.AssemblyInfoInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.AssemblyInfo.cs
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.csproj.CoreCompileInputs.cache

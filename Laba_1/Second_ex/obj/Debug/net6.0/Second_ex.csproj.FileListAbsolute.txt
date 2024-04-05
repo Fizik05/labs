@@ -1,0 +1,14 @@
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\bin\Debug\net6.0\Second_ex.exe
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\bin\Debug\net6.0\Second_ex.deps.json
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\bin\Debug\net6.0\Second_ex.runtimeconfig.json
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\bin\Debug\net6.0\Second_ex.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\bin\Debug\net6.0\Second_ex.pdb
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.AssemblyInfoInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.AssemblyInfo.cs
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\refint\Second_ex.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.pdb
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\Second_ex.genruntimeconfig.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Second_ex\obj\Debug\net6.0\ref\Second_ex.dll

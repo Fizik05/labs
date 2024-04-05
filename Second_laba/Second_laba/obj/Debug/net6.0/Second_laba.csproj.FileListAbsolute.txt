@@ -1,0 +1,14 @@
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\bin\Debug\net6.0\Second_laba.exe
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\bin\Debug\net6.0\Second_laba.deps.json
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\bin\Debug\net6.0\Second_laba.runtimeconfig.json
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\bin\Debug\net6.0\Second_laba.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\bin\Debug\net6.0\Second_laba.pdb
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.AssemblyInfoInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.AssemblyInfo.cs
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\refint\Second_laba.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.pdb
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\Second_laba.genruntimeconfig.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Second_laba\Second_laba\obj\Debug\net6.0\ref\Second_laba.dll

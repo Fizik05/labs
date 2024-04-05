@@ -1,0 +1,14 @@
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\bin\Debug\net6.0\Third_ex.exe
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\bin\Debug\net6.0\Third_ex.deps.json
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\bin\Debug\net6.0\Third_ex.runtimeconfig.json
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\bin\Debug\net6.0\Third_ex.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\bin\Debug\net6.0\Third_ex.pdb
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.AssemblyInfoInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.AssemblyInfo.cs
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.csproj.CoreCompileInputs.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\refint\Third_ex.dll
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.pdb
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\Third_ex.genruntimeconfig.cache
+D:\Desktop\Studying\2_курс\2 семестр\ООП\Labas\Laba_1\Third_ex\obj\Debug\net6.0\ref\Third_ex.dll
